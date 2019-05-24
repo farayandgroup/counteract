@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/static/css/main.34de6062.chunk.css",
-    "main.js": "/static/js/main.3ff4ae2d.chunk.js",
-    "main.js.map": "/static/js/main.3ff4ae2d.chunk.js.map",
-    "runtime~main.js": "/static/js/runtime~main.a8a9905a.js",
-    "runtime~main.js.map": "/static/js/runtime~main.a8a9905a.js.map",
-    "static/js/2.5c34ff95.chunk.js": "/static/js/2.5c34ff95.chunk.js",
-    "static/js/2.5c34ff95.chunk.js.map": "/static/js/2.5c34ff95.chunk.js.map",
-    "index.html": "/index.html",
-    "precache-manifest.0305af6ec424fc26d567f2b7b70369cb.js": "/precache-manifest.0305af6ec424fc26d567f2b7b70369cb.js",
-    "service-worker.js": "/service-worker.js",
-    "static/css/main.34de6062.chunk.css.map": "/static/css/main.34de6062.chunk.css.map"
+    "main.css": "/counteract/static/css/main.34de6062.chunk.css",
+    "main.js": "/counteract/static/js/main.a4017a57.chunk.js",
+    "main.js.map": "/counteract/static/js/main.a4017a57.chunk.js.map",
+    "runtime~main.js": "/counteract/static/js/runtime~main.701cee45.js",
+    "runtime~main.js.map": "/counteract/static/js/runtime~main.701cee45.js.map",
+    "static/js/2.5c34ff95.chunk.js": "/counteract/static/js/2.5c34ff95.chunk.js",
+    "static/js/2.5c34ff95.chunk.js.map": "/counteract/static/js/2.5c34ff95.chunk.js.map",
+    "index.html": "/counteract/index.html",
+    "precache-manifest.f91be553ff4c6a4b4c46d5cd1cd7777a.js": "/counteract/precache-manifest.f91be553ff4c6a4b4c46d5cd1cd7777a.js",
+    "service-worker.js": "/counteract/service-worker.js",
+    "static/css/main.34de6062.chunk.css.map": "/counteract/static/css/main.34de6062.chunk.css.map"
   }
 }
